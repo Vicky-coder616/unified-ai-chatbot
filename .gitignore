@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+*.db
+*.sqlite3
+*.log
+output/
+.DS_Store
+.vscode/
+
+.env.*
+!.env.example
+.pytest_cache/
+*.egg-info/
+samples/generated/
